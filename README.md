@@ -1,6 +1,7 @@
 # RainSense
 RainSense: An Autonomous Driving Environmental Perception Dataset with Rain Intensity Labels
-DataSet samples will be up loaded soon.
+
+All data will be up loaded soon.
 
 Sample files shared via Baidu Netdisk: RainSense_Sample.zip
 Link: https://pan.baidu.com/s/1MuyGXUPx-EqcxyKFZBmaIg?pwd=lmsx
