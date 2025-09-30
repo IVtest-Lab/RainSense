@@ -9,3 +9,4 @@ Access Code: lmsx
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17231190.svg)](https://doi.org/10.5281/zenodo.17231190)
 
+<img width="397" height="435" alt="image" src="https://github.com/user-attachments/assets/62a22b28-fd33-4293-b90d-6df4cf399785" />
